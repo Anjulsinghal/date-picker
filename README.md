@@ -1,7 +1,5 @@
 # Recurring Date Picker Component
 
-A modern, customizable date picker component built with React, featuring a recurring event selection, date inputs with calendar icons, and a stylish date picker popup using the `react-datepicker` library.
-
 ## Features
 
 - **Date Selection**: Users can select start and optional end dates using a visually enhanced date picker.
@@ -18,10 +16,3 @@ A modern, customizable date picker component built with React, featuring a recur
 - **react-icons**: Library for including icons (used for the calendar icon).
 - **date-fns**: Used for date manipulation in the `react-datepicker` library.
 
-## Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/your-username/date-picker.git
-cd date-picker
